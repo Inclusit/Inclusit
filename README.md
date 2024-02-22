@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Inclusit/Inclusit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently studying to become a web developer at Nackademin
 - 🌱 I’m currently learning web development fullstack open source
 - 👯 I’m looking to collaborate on: Exciting open-source projects or anything related to web development.
@@ -11,4 +8,3 @@
 - 📫 How to reach me: Feel free to email me at camilla.franzen@yh.nackademin.se 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a cat, I dream of making a collaborative website for my webcomic artist friends
--->
